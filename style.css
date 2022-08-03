@@ -1,0 +1,23 @@
+.main {
+    width: 100%;
+    display: block;
+    padding-left: 0%;
+    padding-right: 0%;
+    background-color: #ffd4db;
+}
+
+.hero {
+    text-align: left;
+
+}
+
+.article-hero {
+    padding-top: 72px;
+    padding-bottom: 40px;
+    width: 1170px;
+}
+
+.h1-hero {
+
+    font-size: 40px;
+}
